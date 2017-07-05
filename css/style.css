@@ -1,0 +1,133 @@
+@font-face{
+	font-family: "Exo-2";
+	src:url("../fonts/Exo-2/Exo2-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+.exo14{
+	font-family: 'Exo-2', sans-serif;
+	font-size: 14px;
+}
+.exo16{
+	font-family: 'Exo-2', sans-serif;
+	font-size: 16px;
+}
+.exo20{
+	font-family: 'Exo-2', sans-serif;
+	font-size: 20px;
+}
+.exo24{
+	font-family: 'Exo-2', sans-serif;
+	font-size: 24px;
+}
+.exo30{
+	font-family: 'Exo-2', sans-serif;
+	font-size: 30px;
+}
+.exo40{
+	font-family: 'Exo-2', sans-serif;
+	font-size: 40px;
+}
+
+@font-face{
+	font-family: "Archivo";
+	src:url("../fonts/Archivo/ArchivoBlack-Regular") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+.arch14{
+	font-family: 'Archivo', sans-serif;
+	font-size: 14px;
+}
+.arch16{
+	font-family: 'Archivo', sans-serif;
+	font-size: 16px;
+}
+.arch20{
+	font-family: 'Archivo', sans-serif;
+	font-size: 20px;
+}
+.arch24{
+	font-family: 'Archivo', sans-serif;
+	font-size: 24px;
+}
+.arch30{
+	font-family: 'Archivo', sans-serif;
+	font-size: 30px;
+}
+.arch40{
+	font-family: 'Archivo', sans-serif;
+	font-size: 40px;
+}
+
+@font-face{
+	font-family: "Russo";
+	src:url("../fonts/Russo_One/RussoOne-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+.russo14{
+	font-family: 'Russo', sans-serif;
+	font-size: 14px;
+}
+.russo16{
+	font-family: 'Russo', sans-serif;
+	font-size: 16px;
+}
+.russo20{
+	font-family: 'Russo', sans-serif;
+	font-size: 20px;
+}
+.russo24{
+	font-family: 'Russo', sans-serif;
+	font-size: 24px;
+}
+.russo30{
+	font-family: 'Russo', sans-serif;
+	font-size: 30px;
+}
+.russo40{
+	font-family: 'Russo', sans-serif;
+	font-size: 40px;
+}
+
+@font-face{
+	font-family: "Play";
+	src:url("../fonts/Play/Play-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+.play14{
+	font-family: 'Play', sans-serif;
+	font-size: 14px;
+}
+.play16{
+	font-family: 'Play', sans-serif;
+	font-size: 16px;
+}
+.play20{
+	font-family: 'Play', sans-serif;
+	font-size: 20px;
+}
+.play24{
+	font-family: 'Play', sans-serif;
+	font-size: 24px;
+}
+.play30{
+	font-family: 'Play', sans-serif;
+	font-size: 30px;
+}
+.play40{
+	font-family: 'Play', sans-serif;
+	font-size: 40px;
+}
+
+/*
+
+font-family: 'Play', sans-serif;
+font-family: 'Archivo Black', sans-serif;
+font-family: 'Russo One', sans-serif;
+font-family: 'Exo-2', sans-serif;
+
+*/
